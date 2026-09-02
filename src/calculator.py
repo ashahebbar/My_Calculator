@@ -18,7 +18,7 @@ def multiply(a, b):
     
     print(f"Multiplying {a} × {b}")  # Added logging
     result = a * b
-    print(f"Result: {result}")
+    print(f"Result of multiplication is: {result}")
     return result
 
 def divide(a, b):
