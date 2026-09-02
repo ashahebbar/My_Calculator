@@ -31,6 +31,7 @@ def divide(a, b):
     print(f"Dividing {a} ÷ {b}")  # Added logging
     result = a / b
     print(f"Result: {result}")
+    print("complete")
     return result
 
 # TODO: Students will add multiply, divide, power, sqrt functions
