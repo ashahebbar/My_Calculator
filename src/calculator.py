@@ -30,7 +30,7 @@ def divide(a, b):
     
     print(f"Dividing {a} ÷ {b}")  # Added logging
     result = a / b
-    print(f"Result: {result}")
+    print(f"Result: of division {result}")
     print("complete")
     return result
 
